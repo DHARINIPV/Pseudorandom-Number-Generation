@@ -13,9 +13,11 @@ Implementation of Pseudorandom Number Generation Using Standard library
 4.Pass the value for number of iterations and print the numbers.
 
 5.End the program.
+
 ### PROGRAM:
 #### NAME: Dharini PV
 #### Register Number: 212222240024
+
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -41,8 +43,11 @@ int main()
     return 0;
 }
 ```
+
 ### OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/7a9de34b-5e7a-406e-979c-6fff75abb729)
 
 ### RESULT:
+
 The Implementation of Pseudorandom Number Generation Using Standard library is successful.
